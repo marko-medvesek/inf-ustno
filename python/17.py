@@ -15,3 +15,5 @@ for i in range(len(a)):
     rezultat = rezultat + a[i] + b[i]
 
 print(rezultat)
+
+#Napisal MM

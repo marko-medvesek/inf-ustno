@@ -11,3 +11,5 @@ else: ## b > a
     for i in range(1,b-a):
         if (a+i) % 2 == 0:
             print(a+i)
+
+#Napisal MM

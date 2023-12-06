@@ -11,3 +11,5 @@ for i in range(4):
         najvecje = x
 
 print("Število, ki ni najmanjše je: " + str(najvecje))
+
+#Napisal MM

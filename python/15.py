@@ -14,3 +14,5 @@ for i in range(len(besedilo)):
         rezultat = rezultat + besedilo[i]
 
 print(rezultat)
+
+#Napisal MM

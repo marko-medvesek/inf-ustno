@@ -7,3 +7,5 @@ n = int(input("Koliko števil želiš: "))
 
 for i in range(n):
     print(a*(q**i))
+
+#Napisal MM

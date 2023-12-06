@@ -15,3 +15,5 @@ while rezultat < 1000: ## ponavljaj dokler je rezultat manjši od 1000 (ko je ve
         print(rezultat) 
 """     if -1000 < rezultat <= -100:  ##tako bi izgledalo če bi želeli upoštevati še  negativna števila
         print(rezultat)  """
+
+#Napisal MM

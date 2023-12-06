@@ -8,3 +8,5 @@ for crka in range(len(beseda)): ## za vsako črko v besedi
         stSoglasnikov += 1
 
 print("Število soglasnikov je " + str(stSoglasnikov))
+
+#Napisal MM

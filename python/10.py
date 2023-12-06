@@ -12,3 +12,5 @@ while rezultat <= meja:
     i += 1
     if rezultat <= meja:
         print(rezultat)
+
+#Napisal MM

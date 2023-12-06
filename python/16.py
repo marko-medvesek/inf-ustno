@@ -10,3 +10,5 @@ for i in range(len(beseda)):
 ## način z negativnim indeksom
 """ for i in range(1,len(beseda)+1):
     print(beseda[-i]) """
+
+#Napisal MM

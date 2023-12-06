@@ -12,3 +12,5 @@ for i in range(5):
         stevecLih += 1
 print("Sodih števil: " + str(stevecSod))
 print("Lihih števil: " + str(stevecLih))
+
+#Napisal MM
