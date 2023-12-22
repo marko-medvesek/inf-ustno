@@ -5,8 +5,8 @@
 prejsnjeSt = 0
 narascujoca = True
 
-for i in range(1,5):
-    x = int(input("Vnesi " + str(i) + ". število: "))
+for i in range(5):
+    x = int(input("Vnesi " + str(i+1) + ". število: "))
     if x < prejsnjeSt:
         narascujoca = False
     prejsnjeSt = x
