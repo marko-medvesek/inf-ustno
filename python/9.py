@@ -9,7 +9,7 @@ rezultat = 0
 i = 1
 
 while rezultat < 1000: ## ponavljaj dokler je rezultat manjši od 1000 (ko je večji od 999 ni več trimestno število)
-    rezultat = x**i
+    rezultat = x**i ## x^i
     i +=1
     if 100 <= rezultat < 1000:
         print(rezultat) 
